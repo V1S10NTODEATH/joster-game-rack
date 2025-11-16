@@ -4,27 +4,15 @@ import { Dialog, DialogContent, DialogDescription, DialogHeader, DialogTitle } f
 const games = [
   {
     id: 1,
-    title: "Coming Soon",
-    description: "Our first game is currently in development. Stay tuned for an amazing gaming experience!",
-    image: "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=400&h=600&fit=crop",
+    title: "Studio Schooling",
+    description: "An educational adventure game that makes learning fun and engaging. Explore different subjects in an interactive studio environment!",
+    image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&h=600&fit=crop",
   },
   {
     id: 2,
-    title: "Game Project 2",
-    description: "Another exciting project in the works. We're crafting something special for you!",
-    image: "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=400&h=600&fit=crop",
-  },
-  {
-    id: 3,
-    title: "Mystery Game",
-    description: "A mysterious adventure awaits. More details coming soon!",
-    image: "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=400&h=600&fit=crop",
-  },
-  {
-    id: 4,
-    title: "Future Release",
-    description: "We're working on multiple projects to bring you the best gaming experiences.",
-    image: "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=400&h=600&fit=crop",
+    title: "Grow a Fish",
+    description: "Coming soon! Raise and care for your own virtual fish in this relaxing aquarium simulation game.",
+    image: "https://images.unsplash.com/photo-1520990269494-403b53c5f6c9?w=400&h=600&fit=crop",
   },
 ];
 
